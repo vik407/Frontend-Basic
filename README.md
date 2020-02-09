@@ -1,4 +1,5 @@
 # FRONTEND BASIC BOILERPLATE!
+## Version 1.1.0 (Bootstrapped first version)
 
 Hello this repository have a starter point to create a frontend project **Gulp Powered**. 
 With Gulp you automate and enhance your workflow, more info in their website: [https://gulpjs.com/](https://gulpjs.com/)
